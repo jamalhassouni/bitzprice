@@ -25,7 +25,7 @@ Jamal Hassouni
 
 1.0.0
 
-## Technologies
+### Technologies
 
 - [React.js](https://reactjs.org/)
 - [Next.js](https://nextjs.org/docs/)
