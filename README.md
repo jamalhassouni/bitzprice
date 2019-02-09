@@ -25,6 +25,13 @@ Jamal Hassouni
 
 1.0.0
 
+## Technologies
+
+- [React.js](https://reactjs.org/)
+- [Next.js](https://facebook.github.io/react-native/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Coindesk Api](https://www.coindesk.com/api)
+
 ### License
 
-This project is licensed under the MIT License
+This project is licensed under the [MIT](License.md) License
