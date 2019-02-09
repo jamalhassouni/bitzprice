@@ -1,0 +1,22 @@
+{
+  "name": "bitzprice",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
+  },
+  "keywords": [
+    "react.js",
+    "next.js",
+    "bitcoin",
+    "server side rendering"
+  ],
+  "author": "Jamal Hassouni",
+  "license": "MIT"
+}
