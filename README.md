@@ -28,7 +28,7 @@ Jamal Hassouni
 ## Technologies
 
 - [React.js](https://reactjs.org/)
-- [Next.js](https://facebook.github.io/react-native/)
+- [Next.js](https://nextjs.org/docs/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Coindesk Api](https://www.coindesk.com/api)
 
