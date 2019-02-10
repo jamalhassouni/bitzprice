@@ -1,8 +1,10 @@
 class Prices extends React.Component {
-  state = { currency: "GBP" };
+  state = { currency: "USD" };
+
   handleChange = e => {
     this.setState({ currency: e.target.value });
   };
+
   renderList() {
     let list = "";
     if (this.state.currency === "USD") {
