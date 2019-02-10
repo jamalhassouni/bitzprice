@@ -31,6 +31,7 @@ Jamal Hassouni
 - [Next.js](https://nextjs.org/docs/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Coindesk Api](https://www.coindesk.com/api)
+- [Isomorphic Unfetch](https://www.npmjs.com/package/isomorphic-unfetch)
 
 ### License
 
